@@ -35,9 +35,9 @@ Chrome or any explorer
 
 👤 **Bogdan Stojanovic**
 
-- GitHub: [@githubhandle](https://github.com/kakarrot92)
-- Twitter: [@twitterhandle](https://twitter.com/kakarrot1992)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bogdan-stojanovic-97829b136/)
+- GitHub:https://github.com/kakarrot92
+- Twitter:https://twitter.com/kakarrot1992
+- LinkedIn:https://www.linkedin.com/in/bogdan-stojanovic-97829b136/
 
 
 
